@@ -1,7 +1,7 @@
 # 8turntour2025.com.github.io
-Github page view: https://artistslp.github.io/8turntour2025.com.github.io
+Github page view: https://artistslp.github.io/8turntour2025.com.github.io<br>CloudFlare page view: https://8turntour2025-com-github-io.pages.dev/<br>CloudFlare page setup: https://dash.cloudflare.com/73ed68d334e86dadb392d542c204707b/pages/view/8turntour2025-com-github-io
 ## block_hero
-title: 8Turn 1st World Tour 2025<br>text1: 8TURNRISE 2025<br>text2: Dec 21, 2024 – May 05, 2025
+title: 8Turn Tour 2025<br>text1: 8TURNRISE 2025<br>text2: Dec 21, 2024 – May 05, 2025
 ## block_text
 <p>Rising K-pop group 8TURN has officially announced their first world tour, titled “8TURNRISE,” marking an exciting milestone in their career as they prepare for a global debut. The tour will take place across multiple countries, starting in the United States in April 2025 and concluding later that month. With a total of 12 concerts scheduled, major cities include New York, Atlanta, Chicago, Los Angeles, and San Francisco.<br><br>This tour follows the release of their mini-album STUNNING, featuring the hit track "RU-PUM PUM," which has contributed to their growing popularity both domestically and internationally. Fans can also look forward to 8TURN's appearance on MNET's reality show Road to Kingdom: Ace of Ace, further elevating their presence in the K-pop scene. Don’t miss your chance to witness this exciting debut; secure your tickets for the 8Turn 1st World Tour 2025 before they sell out!</p>
 ## block_dates [Active]
